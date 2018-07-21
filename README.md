@@ -1,3 +1,3 @@
-# blog
+# Blog
 
 ## Bienvenido a mi rincon de internet...
